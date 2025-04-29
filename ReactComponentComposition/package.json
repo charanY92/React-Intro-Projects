@@ -1,0 +1,30 @@
+{
+  "name": "parcelintro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charanY92/React-Projects.git"
+  },
+  "author": "Charan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charanY92/React-Projects/issues"
+  },
+  "homepage": "https://github.com/charanY92/React-Projects#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
